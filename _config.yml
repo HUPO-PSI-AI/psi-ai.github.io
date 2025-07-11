@@ -1,0 +1,18 @@
+title: PSI-AI readiness Working Group
+description: Making proteomics AI-ready
+theme: minima
+markdown: kramdown
+
+nav:
+  - title: Home
+    url: /
+  - title: Initiatives
+    url: /initiatives
+  - title: Resources
+    url: /resources
+  - title: Get Involved
+    url: /get-involved
+  - title: News
+    url: /news
+  - title: Team
+    url: /team
